@@ -1,0 +1,156 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Adam Jaspan
+    tagline: Data Scientist
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: adam.jaspan@googlemail.com
+    phone: 0779481285
+    #website: blog.webjeda.com #do not add http://
+    linkedin: adam-jaspan
+    github:  AEJaspan
+    #telegram: # add your nickname without '@' sign
+    gitlab: ajaspan
+    bitbucket:
+    #twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: French
+        level: Intermediate
+
+      - idiom: Spanish
+        level: Beginner
+
+    interests:
+      - item: Skiing
+        link:
+
+      - item: Running
+        link:
+
+      - item: Cycling
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am currently in the fourth and final year of a PhD in particle-physics. This experience has sparked a passion for data, which I am hoping now to expand upon by pivoting my career towards roles in the Data Science industry.
+
+education:
+    - degree: PhD in Particle-physics
+      university: University of Liverpool
+      time: 2017 - 2021
+      details: |
+        Describe your study here
+          - Bullet point
+          - Bullet point
+    - degree: MPhys in Physics (1st)
+      university: University of Liverpool
+      time: 2013 - 2017
+      details: |
+        Describe your study here
+          - Bullet point
+          - Bullet point
+experiences:
+    - role: Data Scientist
+      time: 2021 - Present
+      company: Elastacloud, Nottingham
+      details: |
+        Describe your role here
+          - Bullet point
+          - Bullet point
+    - role: Postgraduate Researcher
+      time: 2017 - 2021
+      company: University of Liverpool
+      details: |
+        Describe your role here
+          - Bullet point
+          - Bullet point
+    - role: Graduate Teaching Assistant
+      time: 2017 - 2021
+      company: University of Liverpool
+      details: |
+        Describe your role here
+          - Bullet point
+          - Bullet point
+    - role: Research Assistant Internship
+      time: May - Sept 2016
+      company: University of Liverpool
+      details: |
+        Describe your role here
+          - Bullet point
+          - Bullet point
+    - role: R&D Internship
+      time: May - Sept 2015
+      company: Cavendish Laboratories, Nottingham
+      details: |
+        Describe your role here
+          - Bullet point
+          - Bullet point
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section.
+    papers:
+      - title: "Search for pairs of scalar leptoquarks decaying into quarks and electrons or muons in √s = 13 TeV pp collisions with the ATLAS detector, (2020), arXiv: 2006.05872 [hep-ex]"
+        link: "https://link.springer.com/article/10.1007/JHEP10(2020)112"
+      - title: "Implementation of merged multi-leg tt ̄ samples at NLO accuracy using Matchbox framework in Herwig 7, tech. rep. ATL-COM-PHYS-2019-1300, CERN, 2019"
+        link: "https://cds.cern.ch/record/2692863"
+        authors: Adam Elliott Jaspan
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 95%
+
+      - name: Machine Learning
+        level: 90%
+
+      - name: SQL
+        level: 70%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
