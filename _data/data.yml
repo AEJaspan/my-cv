@@ -55,16 +55,12 @@ education:
       university: University of Liverpool
       time: 2017 - 2021
       details: |
-        Describe your study here
+        This included a 10 month secondment with the CERN collaboration in Geneva.
           - Bullet point
           - Bullet point
     - degree: MPhys in Physics (1st)
       university: University of Liverpool
       time: 2013 - 2017
-      details: |
-        Describe your study here
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Data Scientist
       time: 2021 - Present
@@ -77,30 +73,28 @@ experiences:
       time: 2017 - 2021
       company: University of Liverpool
       details: |
-        Describe your role here
-          - Bullet point
-          - Bullet point
+        During my PhD, I performed leading research in experimental particle-physics, as part of the CERN collaboration. During this time I
+          - Successfully implemented a complex analysis at publication quality, using C++, Python programming languages
+          - Successfully developed and tested machine learning solutions using the PyTorch and scikit-learn toolkits
+          - Developed strong communication skills by presenting high impact work at both group meetings and national conferences, conveying a range of complex subject matter to both technical and nontechnical audiences
     - role: Graduate Teaching Assistant
       time: 2017 - 2021
       company: University of Liverpool
       details: |
-        Describe your role here
-          - Bullet point
-          - Bullet point
+        Supervised undergraduate physics students, assisting with technical assignments in a range of subjects.
+          - Assisted undergraduates in using various machine learning packages and Python libraries, demonstrating proficiency in each subject
+          - Applied strong interpersonal skills to effectively communicate the technologies involved
     - role: Research Assistant Internship
       time: May - Sept 2016
       company: University of Liverpool
       details: |
-        Describe your role here
-          - Bullet point
-          - Bullet point
+        Worked in the R&D phase of the Liverpool Laser Cold Atom Interferometry experiment
+          - Achieved high quality work optimizing and implementing a vibrational isolation platform used in precision experimentation
     - role: R&D Internship
       time: May - Sept 2015
       company: Cavendish Laboratories, Nottingham
       details: |
-        Describe your role here
-          - Bullet point
-          - Bullet point
+        Performed R&D to develop and stress-test 3D models of surgical implants for use in scoliosis (spinal curvature) surgery
 
 projects:
     title: Projects
@@ -108,25 +102,9 @@ projects:
       You can list your side projects or open source libraries in this
       section.
     assignments:
-      - title: Velocity
+      - title: CDP
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Competed in the Carbon Disclosure Project (CDP) Kaggle competition, analysing a survey of carbon strategies, in which I learnt some of the basics behind NLP"
 
 publications:
     title: Publications
@@ -151,6 +129,3 @@ skills:
 
       - name: SQL
         level: 70%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
