@@ -15,13 +15,13 @@ Simple CV hosted on github-pages
 bundle init
 bundle add github-pages
 bundle update
-bundle exec jekyll builds
+bundle exec jekyll build
 bundle exec jekyll serve
 ```
 
-Site will be hosted locally, and all site data will be in the '''_site''' folder.
+Site will be hosted locally, and all site data will be in the ```_site``` folder.
 
-Push the contents of this folder to the '''online-cv''' repository.
+Push the contents of this folder to the ```online-cv``` repository.
 
 
 CV will then be found at [https://aejaspan.github.io/online-cv/index.html](https://aejaspan.github.io/online-cv/index.html)
