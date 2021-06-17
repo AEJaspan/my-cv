@@ -44,7 +44,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      In my work as a Data Scientist at Elastacloud I have helped in the development of one of the company's first ever DS products, delivering the utility of cutting edge DS techniques in computer vision, optical character recognition and text analysis to provide clients with the ability to harness their previously inaccessible, unstructured data sets.
+      During my post-graduate studies, researching particle physics at the University of Liverpool I performed complex data analysis with one of the world's most
+      advanced experiments at CERN, Geneva. During this work, I developed a keen interest in data and a deep understanding of statistical and analytical techniques.
+      I now work in developing novel Data Science (DS) products with Elastacloud, learning to leverage advanced Machine Learning (ML) techniques to enable us to
+      utilise unstructured data sets. I have thoroughly enjoyed the creative and challenging nature of unstructured data, and have excelled with this opportunity
+      to learn and develop my skill-set. Both my doctoral research and my time with Elastacloud have been thoroughly interesting, varied and educational experiences,
+      that have lead me to become a highly skilled and competent Data Scientist. 
 
 education:
     - degree: PhD in Particle-physics
@@ -62,16 +67,19 @@ experiences:
       time: 2021 - Present
       company: Elastacloud, Nottingham
       details: |
-        In my work as a Data Scientist at Elastacloud I have helped in the development of one of the company's first ever DS products, delivering the utility of cutting edge DS techniques in computer vision, optical character recognition and text analysis to provide clients with the ability to harness their previously inaccessible, unstructured data sets.
+        In my work as a Data Scientist at Elastacloud I have helped in the development of one of the company's first ever DS products, delivering the utility of
+        cutting edge DS techniques in computer vision, optical character recognition and text analysis to provide clients with the ability to harness their
+        previously inaccessible, unstructured data sets.
           - Developed proficiency in working with unstructured data, predominantly using the OpenCV and spaCy APIs.
           - Developed ML based object detection techniques using Faster R-CNN architecture, and hosted remotely using Azure ML.
-          - Successfully harnessed cloud based computing solutions with Microsoft's Azure API, to perform complex, data intensive analysis.  
+          - Successfully harnessed cloud based computing solutions with Microsoft's Azure API, to perform complex, data intensive analysis.
+          - Developed end-to-end Azure ML pipelines and created a framework to make these accessible for new members of our DS dev team.
           - Worked collaboratively with a focused team to rapidly produce demonstrable results within the DevOps workflow.
     - role: Postgraduate Researcher
       time: 2017 - 2021
       company: University of Liverpool
       details: |
-        During my PhD, I performed leading research in experimental particle-physics, as part of the CERN collaboration. During this time I
+        During my PhD, I performed leading research in experimental particle-physics, as part of the CERN collaboration. During this time I:
           - Successfully implemented a complex analysis at publication quality, using C++, Python programming languages
           - Successfully developed and tested machine learning solutions using the PyTorch and scikit-learn toolkits
           - Developed strong communication skills by presenting high impact work at both group meetings and national conferences, conveying a range of complex subject matter to both technical and nontechnical audiences
