@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: adam.jaspan@googlemail.com
-    phone: 0779481285
+    phone: +44 779481285
     #website: blog.webjeda.com #do not add http://
     linkedin: adam-jaspan
     github:  AEJaspan
@@ -25,40 +25,65 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    stack:
+    - item: Python [6+ years]
+      link:
+
+    - item: C++ [4+ years]
+      link:
+
+    # - item: Keras [2+ years]
+    #   link:
+
+    # - item: Scikit-learn [2+ years]
+    #   link:
+
+    # - item: Numpy [2+ years]
+    #   link:
+
+    # - item: Pandas [2+ years]
+    #   link:
+
+    # - item: OpenCV [1 year]
+    #   link:
+
+    # - item: spaCy [1 year]
+    #   link:
+
+    # - item: Azure [1 year]
+    #   link:  
+
     certifications:
-      - item: AZ-900
-        link:
-      - item: ML-101
-        link:
+    - item: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2f7951f5-02d5-4b8b-9aa9-f7d804129593" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      link: https://www.credly.com/badges/2f7951f5-02d5-4b8b-9aa9-f7d804129593/public_url
 
+    - item: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a4e150ce-196d-40df-91cb-d906b3de4bda" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      link: https://www.credly.com/badges/a4e150ce-196d-40df-91cb-d906b3de4bda/public_url
+  
     interests:
-      - item: Skiing
-        link:
+    - item: Technology, current affairs, economics, music, skiing, climbing, running, cycling, hiking
+      link:
 
-      - item: Running
-        link:
+    # - item: Running
+    #   link:
 
-      - item: Cycling
-        link:
+    # - item: Cycling
+    #   link:
 
 career-profile:
     title: Career Profile
     summary: |
-      During my post-graduate studies, researching particle physics at the University of Liverpool I performed complex data analysis with one of the world's most
-      advanced experiments at CERN, Geneva. During this work, I developed a keen interest in data and a deep understanding of statistical and analytical techniques.
-      I now work in developing novel Data Science (DS) products with Elastacloud, learning to leverage advanced Machine Learning (ML) techniques to enable us to
-      utilise unstructured data sets. I have thoroughly enjoyed the creative and challenging nature of unstructured data, and have excelled with this opportunity
-      to learn and develop my skill-set. Both my doctoral research and my time with Elastacloud have been thoroughly interesting, varied and educational experiences,
-      that have lead me to become a highly skilled and competent Data Scientist. 
-
+      I attained my Doctorate researching particle physics at the University of Liverpool, where I performed complex data analysis with one of the world’s most advanced 
+      experiments at CERN, Geneva. I am now developing novel Data Science (DS) products with Elastacloud, leveraging advanced Machine Learning (ML) techniques to enable our 
+      clients to utilise unstructured data sets. I have thoroughly enjoyed the creative and challenging nature of unstructured data, and have enjoyed the opportunity to 
+      immerse myself in the exciting fields of DS and ML.
+      
 education:
     - degree: PhD in Particle-physics
       university: University of Liverpool
       time: 2017 - 2021
       details: |
         This included a 10 month secondment with the CERN collaboration in Geneva.
-          - Bullet point
-          - Bullet point
     - degree: MPhys in Physics (1st)
       university: University of Liverpool
       time: 2013 - 2017
@@ -67,71 +92,91 @@ experiences:
       time: 2021 - Present
       company: Elastacloud, Nottingham
       details: |
-        In my work as a Data Scientist at Elastacloud I have helped in the development of one of the company's first ever DS products, delivering the utility of
-        cutting edge DS techniques in computer vision, optical character recognition and text analysis to provide clients with the ability to harness their
-        previously inaccessible, unstructured data sets.
+          - Successfully developed end-to-end object detection ML pipelines.
+          - Leveraged cloud computing resources and deployed ML models through the Azure portal.
+          - Advanced MLOps skillset, becoming the domain expert within our team.
+          - Developed a high-impact DS product that significantly optimised the workflow within a large multinational, saving hundreds of hours of work for our clients per year.
           - Developed proficiency in working with unstructured data, predominantly using the OpenCV and spaCy APIs.
-          - Developed ML based object detection techniques using Faster R-CNN architecture, and hosted remotely using Azure ML.
-          - Successfully harnessed cloud based computing solutions with Microsoft's Azure API, to perform complex, data intensive analysis.
-          - Developed end-to-end Azure ML pipelines and created a framework to make these accessible for new members of our DS dev team.
-          - Worked collaboratively with a focused team to rapidly produce demonstrable results within the DevOps workflow.
+          - Guided and mentored new members of the Dev team.
+          - Coordinated and demoed MVPs to key stake holders, while aligning on user requirements and operational constraints.
+    - role: Postgraduate Researcher
+      time: 2018 - 2019
+      company: CERN, Geneva
+      details: |
+          - Completed a year's secondment to the CERN collaboration in Geneva.
+          - Trusted to operate "run control" shifts in the ATLAS control centre, involved in monitoring the operation of a multi-billion euro experiment.
+          - Successfully integrated within a large, multinational collaboration of leading academics.
     - role: Postgraduate Researcher
       time: 2017 - 2021
       company: University of Liverpool
       details: |
-        During my PhD, I performed leading research in experimental particle-physics, as part of the CERN collaboration. During this time I:
-          - Successfully implemented a complex analysis at publication quality, using C++, Python programming languages
-          - Successfully developed and tested machine learning solutions using the PyTorch and scikit-learn toolkits
-          - Developed strong communication skills by presenting high impact work at both group meetings and national conferences, conveying a range of complex subject matter to both technical and nontechnical audiences
+          - Successfully developed publication-quality analysis, predominantly using the C++ and Python languages.
+          - Successfully developed and tested ML solutions to event selection in big data sets using neural nets and random forests, implemented in both the Keras and scikit-learn toolkits.
+          - Domain expert in particle physics \& advanced statistics, inc. hypothesis testing and pseudo-experiments.
+          - Utilised CERN's GridPP cloud computing network.
+          - Developed strong communication skills presenting at both group meetings and national conferences to both technical and nontechnical audiences.
     - role: Graduate Teaching Assistant
       time: 2017 - 2021
       company: University of Liverpool
       details: |
-        Supervised undergraduate physics students, assisting with technical assignments in a range of subjects.
+          - Supervised undergraduate physics students, assisting with technical assignments in a range of subjects
           - Assisted undergraduates in using various machine learning packages and Python libraries, demonstrating proficiency in each subject
           - Applied strong interpersonal skills to effectively communicate the technologies involved
     - role: Research Assistant Internship
       time: May - Sept 2016
       company: University of Liverpool
       details: |
-        Worked in the R&D phase of the Liverpool Laser Cold Atom Interferometry experiment
-          - Achieved high quality work optimizing and implementing a vibrational isolation platform used in precision experimentation
+          - Developed a vibrational isolation platform used in the Liverpool Laser Cold Atom Interferometry experiment.
     - role: R&D Internship
       time: May - Sept 2015
       company: Cavendish Laboratories, Nottingham
       details: |
-        Performed R&D to develop and stress-test 3D models of surgical implants for use in scoliosis (spinal curvature) surgery
+          - Performed R&D to develop and stress-test 3D models of surgical implants for use in scoliosis (spinal curvature) surgery
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section.
-    assignments:
-      - title: CDP
-        link: "#hook"
-        tagline: "Competed in the Carbon Disclosure Project (CDP) Kaggle competition, analysing a survey of carbon strategies, in which I learnt some of the basics behind NLP"
+# projects:
+#     title: Projects
+#     intro: >
+#       In my free time, i enjoy competing in Kaggle competitions, and engaging with DS problems that I have encountered in my
+#       day-to-day routine. Some of what I have worked on is listed below.
+#     assignments:
+#       - title: CDP
+#         link: "#hook"
+#         tagline: "Competed in the Carbon Disclosure Project (CDP) Kaggle competition, analysing a survey of carbon strategies, in which I learnt some of the basics behind NLP"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section.
+      Below is a list of my published works, on which I was the primary analyst.
     papers:
       - title: "Search for pairs of scalar leptoquarks decaying into quarks and electrons or muons in √s = 13 TeV pp collisions with the ATLAS detector, (2020), arXiv: 2006.05872 [hep-ex]"
         link: "https://link.springer.com/article/10.1007/JHEP10(2020)112"
+        authors: The ATLAS collaboration
       - title: "Implementation of merged multi-leg tt ̄ samples at NLO accuracy using Matchbox framework in Herwig 7, tech. rep. ATL-COM-PHYS-2019-1300, CERN, 2019"
         link: "https://cds.cern.ch/record/2692863"
         authors: Adam Elliott Jaspan
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 95%
+#     toolset:
+#       - name: Python
+#         level: 95%
 
-      - name: Machine Learning
-        level: 90%
+#       - name: Statistical Analysis
+#         level: 87%
+        
+#       - name: Machine Learning
+#         level: 83%
 
-      - name: SQL
-        level: 70%
+#       - name: Computer Vision
+#         level: 93%
+
+#       - name: MS Azure
+#         level: 78%
+        
+#       - name: Unstructured Data
+#         level: 83%
+
+#       - name: End-to-end DS
+#         level: 94%
+    

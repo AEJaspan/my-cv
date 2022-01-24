@@ -1,0 +1,22 @@
+{% assign stack = site.data.data.sidebar.stack %}
+{% if stack %}
+<div class="stack-container container-block">
+
+  <h2 class="container-block-title">
+    Tech Stack
+  </h2>
+
+  <ul class="list-unstyled stack-list">
+    {% for stac in stack %}
+
+      {% if stac.link %}
+      <li><a href="{{ stac.link }}">{{ stac.item }}</a></li>
+      {% else %}
+      <li>{{ stac.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//stack-->
+{% endif %}

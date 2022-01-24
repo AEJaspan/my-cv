@@ -142,6 +142,16 @@ p {
         }
     }
 
+    .stack-list {
+        margin-bottom: 0;
+        li {
+            margin-bottom: 10px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+    
     .interests-list {
         margin-bottom: 0;
         li {
@@ -151,6 +161,7 @@ p {
             }
         }
     }
+
     .certifications-list {
         margin-bottom: 0;
         li {
