@@ -26,10 +26,21 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     stack:
+    # - item: Python [6+ years], C++ [4+ years], Keras [2+ years], Scikit-learn [2+ years], Numpy [2+ years], Pandas [2+ years], OpenCV [1 year], spaCy [1 year], Azure [1 year]
+    #   link:
     - item: Python [6+ years]
       link:
 
+    - item: Git [6+ years]
+      link:
+
     - item: C++ [4+ years]
+      link:
+
+    - item: Docker [2+ years]
+      link:
+
+    - item: Azure [1 year]
       link:
 
     # - item: Keras [2+ years]
@@ -95,7 +106,7 @@ experiences:
           - Successfully developed end-to-end object detection ML pipelines.
           - Leveraged cloud computing resources and deployed ML models through the Azure portal.
           - Advanced MLOps skillset, becoming the domain expert within our team.
-          - Developed a high-impact DS product that significantly optimised the workflow within a large multinational, saving hundreds of hours of work for our clients per year.
+          - Developed a high-impact DS product, greatly optimising our clients workflow and delivering value.
           - Developed proficiency in working with unstructured data, predominantly using the OpenCV and spaCy APIs.
           - Guided and mentored new members of the Dev team.
           - Coordinated and demoed MVPs to key stake holders, while aligning on user requirements and operational constraints.
@@ -112,7 +123,7 @@ experiences:
       details: |
           - Successfully developed publication-quality analysis, predominantly using the C++ and Python languages.
           - Successfully developed and tested ML solutions to event selection in big data sets using neural nets and random forests, implemented in both the Keras and scikit-learn toolkits.
-          - Domain expert in particle physics \& advanced statistics, inc. hypothesis testing and pseudo-experiments.
+          - Domain expert in particle physics & advanced statistics, inc. hypothesis testing and pseudo-experiments.
           - Utilised CERN's GridPP cloud computing network.
           - Developed strong communication skills presenting at both group meetings and national conferences to both technical and nontechnical audiences.
     - role: Graduate Teaching Assistant
