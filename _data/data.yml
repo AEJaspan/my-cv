@@ -99,24 +99,24 @@ experiences:
       time: 2021 - Present
       company: Elastacloud, Nottingham
       details: |
-          - Lead a team hack into deploying CI/CT/CD ML pipelines via cloud resources and advancing MLOps practices within the company.
-          - Gained experience in big data analysis on the Databrics platform using Apache Spark.
+          - Lead a team hack into deploying continuous integration, training and deployment (CI/CT/CD) ML pipelines via cloud resources and advancing MLOps practices within the company.
+          - Gained experience in big data analysis on the Databrics platform using Spark.
           - Leveraged cloud computing resources and deployed ML models through the Azure portal.
           - Successfully developed end-to-end object detection ML pipelines.
           - Optimised client workflow of a FTSE 100 company, taking a leading role in product development.
           - Created language classification and object detection pipelines with keras and Azure.
           - Developed proficiency in working with unstructured data, predominantly using the OpenCV and spaCy APIs.
           - Guided and mentored new members of the Dev team.
-          - Coordinated and demoed MVPs to key stake holders, while aligning on user requirements and operational constraints.
+          - Coordinated and demoed MVPs to key stake-holders, while aligning on user requirements and operational constraints.
     - role: Postgraduate Researcher
       time: 2017 - 2021
       company: University of Liverpool
       details: |
           - Produced a leading publication, developing advanced statistical analysis within the PyROOT framework.
           - Successfully developed and tested ML solutions to event selection in big data sets using neural nets and random forests, implemented in both the Keras and scikit-learn toolkits.
-          - Delivered analysis of petabyte scale data sets through distributed cloud computing.
+          - Delivered analysis of petabyte-scale data sets through distributed cloud computing.
           - Domain expert in particle physics & advanced statistics, inc. hypothesis testing and pseudo-experiments.
-          - Developed strong communication skills presenting at both group meetings and national conferences to both technical and nontechnical audiences.
+          - Developed strong communication skills presenting at both group meetings and national conferences to both technical and non technical audiences.
     - role: Postgraduate Researcher
       time: 2018 - 2019
       company: CERN, Geneva
