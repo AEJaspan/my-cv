@@ -167,6 +167,12 @@ publications:
     intro: |
       Below is a list of my published works, on which I was the primary analyst.
     papers:
+      - title: "Applied Bayesian Structural Health Monitoring: inclinometer data anomaly detection and forecasting"
+        link: https://arxiv.org/abs/2307.00305
+        authors: David K. E. Green, Adam Jaspan
+      - title: "Search for pair-produced scalar and vector leptoquarks decaying into third-generation quarks and first- or second-generation leptons in pp collisions with the ATLAS detector"
+        link: https://link.springer.com/article/10.1007/JHEP06(2023)188
+        authors: The ATLAS collaboration
       - title: "Search for pairs of scalar leptoquarks decaying into quarks and electrons or muons in √s = 13 TeV pp collisions with the ATLAS detector, (2020), arXiv: 2006.05872 [hep-ex]"
         link: "https://link.springer.com/article/10.1007/JHEP10(2020)112"
         authors: The ATLAS collaboration
