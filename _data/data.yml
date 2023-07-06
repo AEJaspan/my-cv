@@ -42,6 +42,17 @@ sidebar:
     - item: Azure [3 year] (AzureML, Databricks, Cognitive Services, DevOps)
       link:
 
+    - item: C++ [3 years]
+      link:
+      
+    - item: CSS, HTML [< 1 year]
+      link:
+
+    - item: SQL [<1 year]
+      link:
+
+
+
     # - item: Keras [2+ years]
     #   link:
 
