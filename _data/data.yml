@@ -98,7 +98,8 @@ education:
 experiences:
     - role: Data Scientist
       time: 2022 - Present
-      company: DYWIDAG Ltd, London
+      company: DYWIDAG Ltd
+      location: London
       details: |
           - Published novel techniques in the application of forecasting techniques on sensor data at an international conference.
           - Deployed forecasting techniques on live sensor data, providing a value add helping to secure key commercial contracts.
@@ -107,7 +108,8 @@ experiences:
           - Peer-reviewed statistical models used in the maintenance of key US infrastructure.
     - role: Data Scientist
       time: 2021 - 2022
-      company: Elastacloud Ltd, London
+      company: Elastacloud Ltd
+      location: London
       details: |
           - Led a team hack into deploying continuous integration, training and deployment (CI/CT/CD) ML pipelines via cloud resources and advancing MLOps practices within the company.
           - Gained experience in big data analysis on the Databrics platform using Spark.
@@ -121,6 +123,7 @@ experiences:
     - role: Postgraduate Researcher
       time: 2017 - 2021
       company: University of Liverpool
+      location: Liverpool
       details: |
           - Produced a leading publication, developing advanced statistical analysis within the PyROOT framework.
           - Successfully developed and tested ML solutions to event selection in big data sets using neural nets and random forests, implemented in both the Keras and scikit-learn toolkits.
@@ -129,7 +132,8 @@ experiences:
           - Developed strong communication skills presenting at both group meetings and national conferences to both technical and non technical audiences.
     - role: Postgraduate Researcher
       time: 2018 - 2019
-      company: CERN, Geneva
+      company: CERN
+      location: Geneva
       details: |
           - Awarded a year's secondment to the CERN collaboration in Geneva.
           - Responsible for "run control" shifts in the ATLAS control centre, operating the largest experiment in CERN.
@@ -137,6 +141,7 @@ experiences:
     - role: Graduate Teaching Assistant
       time: 2017 - 2021
       company: University of Liverpool
+      location: Liverpool
       details: |
           - Supervised undergraduate physics students, assisting with technical assignments in a range of subjects
           - Assisted undergraduates in using various machine learning packages and Python libraries, demonstrating proficiency in each subject
@@ -144,11 +149,13 @@ experiences:
     - role: Research Assistant Internship
       time: May - Sept 2016
       company: University of Liverpool
+      location: Liverpool
       details: |
           - Developed a vibrational isolation platform used in the Liverpool Laser Cold Atom Interferometry experiment.
     - role: R&D Internship
       time: May - Sept 2015
-      company: Cavendish Laboratories, Nottingham
+      company: Cavendish Laboratories
+      location: Nottingham
       details: |
           - Performed R&D to develop and stress-test 3D models of surgical implants for use in scoliosis (spinal curvature) surgery
 
