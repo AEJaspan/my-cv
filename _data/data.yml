@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: adam.jaspan@googlemail.com
-    phone: +44(0) 779481285
+    phone: +44(0) 7794812865
     website: ajaspan-cv #do not add http://
     linkedin: adam-jaspan
     github:  AEJaspan
@@ -30,7 +30,7 @@ sidebar:
     # - item: Python [6+ years], C++ [4+ years], Keras [2+ years], Scikit-learn [2+ years], Numpy [2+ years], Pandas [2+ years], OpenCV [1 year], spaCy [1 year], Azure [1 year]
     #   link:
     # Python [6 y] (keras, scikit-learn, OpenCV, spaCy, pandas, numpy, scikit-learn, matplotlib), Git [6 y], Docker [3 y], Azure [1 y] (AzureML, Databricks, Cognitive Services, DevOps), SQL [< 1 y], Spark [< 1 y]
-    - item: Python [8+ years] (Tensorflow, scikit-learn, YOLO, OpenCV, spaCy, pandas, numpy, scikit-learn, matplotlib)
+    - item: Python [8+ years] (Tensorflow, scikit-learn, YOLO, OpenCV, spaCy, pandas, numpy, scikit-learn, matplotlib, plotly)
       link:
 
     - item: Git [8+ years]
@@ -49,6 +49,12 @@ sidebar:
       link:
 
     - item: SQL [<1 year]
+      link:
+
+    - item: R [<1 year]
+      link:
+
+    - item: Java [<1 year]
       link:
 
 
