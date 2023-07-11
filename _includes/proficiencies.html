@@ -1,0 +1,22 @@
+{% assign proficiencies = site.data.data.sidebar.proficiencies %}
+{% if proficiencies %}
+<div class="proficiencies-container container-block">
+
+  <h2 class="container-block-title">
+    Proficiencies
+  </h2>
+
+  <ul class="list-unstyled proficiencies-list">
+    {% for prof in proficiencies %}
+
+      {% if prof.link %}
+      <li><a href="{{ prof.link }}">{{ prof.item }}</a></li>
+      {% else %}
+      <li>{{ prof.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//proficiencies-->
+{% endif %}
