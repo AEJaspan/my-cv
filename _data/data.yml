@@ -19,7 +19,7 @@ sidebar:
     github:  AEJaspan
     researchgate: Adam-Jaspan
     #telegram: # add your nickname without '@' sign
-    gitlab: aejaspan
+    # gitlab: aejaspan
     bitbucket:
     #twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -98,6 +98,9 @@ sidebar:
       link: https://www.credly.com/badges/2f7951f5-02d5-4b8b-9aa9-f7d804129593/public_url
 
 
+    references: 
+    - item: Available on request
+
     interests:
     - item: Technology, current affairs, economics, music, skiing, climbing, running, cycling, hiking
       link:
@@ -111,7 +114,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I attained my Doctorate researching particle physics at the University of Liverpool, where I performed complex data analysis at one of the world's leading experiments at CERN, Geneva. I then spent nearly two years developing novel Data Science (DS) products with Elastacloud, helping a range of companies utilise their unstructured sources of data. I am now working at DYWIDAG, leveraging a comprehensive suite of Machine Learning (ML) and Computer Vision (CV) techniques to add value to DYWIDAG's product offering of remote sensor and monitoring equipment. This work enables the efficient and timely monitoring of the health of various key infrastructure assets across countries within Europe, Asia, and the Americas.
+        I attained my Doctorate researching particle physics at the University of Liverpool, where I 
+        performed complex data analysis at one of the world's largest experiments at CERN, Geneva. I 
+        then spent nearly two years developing novel Data Science (DS) products with Elastacloud, 
+        helping a range of companies utilise their unstructured sources of data. I am now working at 
+        DYWIDAG, leveraging a comprehensive suite of Machine Learning (ML) and Computer Vision (CV) 
+        techniques to add value to DYWIDAG's product offering of remote sensor and monitoring equipment. 
+        This work enables the efficient and timely monitoring of the health of various key infrastructure 
+        assets across countries within Europe, Asia, and the Americas.
       
 education:
     - degree: PhD in Particle-physics
@@ -130,7 +140,7 @@ experiences:
       details: |
           - Published novel techniques in the application of forecasting techniques on sensor data at an international conference.
           - Deployed forecasting techniques on live sensor data, providing a value add helping to secure key commercial contracts.
-          - Successfully implemented CV techniques, automating the process of defect detection and localisation on large-scale image datasets.
+          - Innovated automation of defect detection and localization in vast image datasets, utilizing cutting-edge computer vision techniques.
           - Led the back-end research and development of complex image reconstruction techniques within architectural and computational constraints.
           - Peer-reviewed statistical models used in the maintenance of key US infrastructure.
     - role: Data Scientist
@@ -138,15 +148,15 @@ experiences:
       company: Elastacloud Ltd
       location: London
       details: |
-          - Led a team hack into deploying continuous integration, training and deployment (CI/CT/CD) ML pipelines via cloud resources and advancing MLOps practices within the company.
-          - Gained experience in big data analysis on the Databricks platform using Spark.
-          - Leveraged cloud computing resources and deployed ML models through the Azure portal.
-          - Successfully developed end-to-end object detection ML pipelines using CV techniques.
-          - Optimised client workflow of a FTSE 100 company, taking a leading role in product development.
-          - Implemented NLP and CV techniques to create language classification and object detection pipelines with keras and Azure.
-          - Developed proficiency in working with unstructured data, predominantly using the OpenCV and spaCy APIs.
-          - Guided and mentored new members of the Dev team.
-          - Coordinated and demoed MVPs to key stake-holders, while aligning on user requirements and operational constraints.
+          - Led a team initiative into deploying continuous integration, training and deployment (CI/CT/CD) for ML pipelines via cloud resources and advancing MLOps practices within the company.
+          - Mastered big data analytics on the Databricks platform, leveraging Spark for scalable data processing.
+          - Optimized cloud computing resources for efficient ML model deployment via the Azure portal.
+          - Engineered and deployed robust end-to-end object detection ML pipelines utilizing advanced computer vision techniques.
+          - Streamlined the client workflow for a FTSE 100 company, taking a leading role in product development.
+          - Developed language classification and object detection pipelines using NLP and computer vision techniques, with Keras and Azure.
+          - Achieved expertise in managing unstructured data, utilizing OpenCV and spaCy APIs to extract valuable insights.
+          - Provided mentorship and guidance to new developers, fostering a culture of continuous learning and collaboration.
+          - Led the coordination and presentation of MVPs to stakeholders, ensuring alignment with user needs and operational requirements.
     - role: Postgraduate Researcher
       time: 2017 - 2021
       company: University of Liverpool
@@ -170,9 +180,9 @@ experiences:
       company: University of Liverpool
       location: Liverpool
       details: |
-          - Supervised undergraduate physics students, assisting with technical assignments in a range of subjects
-          - Assisted undergraduates in using various machine learning packages and Python libraries, demonstrating proficiency in each subject
-          - Applied strong interpersonal skills to effectively communicate the technologies involved
+          - Supervised undergraduate physics students, assisting with technical assignments in a range of subjects.
+          - Assisted undergraduates in using various machine learning packages and Python libraries, demonstrating proficiency in each subject.
+          - Applied strong interpersonal skills to effectively communicate the technologies involved.
     - role: Research Assistant Internship
       time: May - Sept 2016
       company: University of Liverpool
@@ -184,7 +194,7 @@ experiences:
       company: Cavendish Laboratories
       location: Nottingham
       details: |
-          - Performed R&D to develop and stress-test 3D models of surgical implants for use in scoliosis (spinal curvature) surgery
+          - Performed R&D to develop and stress-test 3D models of surgical implants for use in scoliosis (spinal curvature) surgery.
 
 # projects:
 #     title: Projects

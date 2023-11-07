@@ -30,7 +30,7 @@ p {
 
 .wrapper {
     background:$theme-color;
-    max-width: 1000px;
+    max-width: 1100px;
     margin: 0 auto;
     position: relative;
     @include box-shadow(0px 2px 4px rgba(0,0,0,0.1));
@@ -40,7 +40,7 @@ p {
     background: $theme-color;
     position: absolute;
     right: 0;
-    width: 280px;
+    width: 260px;
     height: 100%;
     min-height: 800px;
     color: #fff;
@@ -48,7 +48,7 @@ p {
         color: #fff;
     }
     .profile-container {
-        padding: 30px;
+        padding: 20px;
         //background: darken($theme-color, 10%);
         background: rgba(0, 0, 0, 0.2);
         text-align: center;
@@ -93,7 +93,7 @@ p {
         }
     }
     .container-block {
-        padding: 30px;
+        padding: 20px;
     }
     .container-block-title {
         text-transform: uppercase;
@@ -135,7 +135,7 @@ p {
     .languages-list {
         margin-bottom: 0;
         li {
-            margin-bottom: 10px;
+            margin-bottom: 5px;
             &:last-child {
                 margin-bottom: 0;
             }
@@ -145,7 +145,7 @@ p {
     .stack-list {
         margin-bottom: 0;
         li {
-            margin-bottom: 10px;
+            margin-bottom: 5px;
             &:last-child {
                 margin-bottom: 0;
             }
@@ -155,7 +155,7 @@ p {
     .proficiencies-list {
         margin-bottom: 0;
         li {
-            margin-bottom: 10px;
+            margin-bottom: 0px;
             &:last-child {
                 margin-bottom: 0;
             }
@@ -163,9 +163,9 @@ p {
     }
     
     .interests-list {
-        margin-bottom: 0;
+        margin-bottom: 0px;
         li {
-            margin-bottom: 10px;
+            margin-bottom: 0px;
             &:last-child {
                 margin-bottom: 0;
             }
@@ -173,9 +173,9 @@ p {
     }
 
     .certifications-list {
-        margin-bottom: 0;
+        margin-bottom: 0px;
         li {
-            margin-bottom: 10px;
+            margin-bottom: 0px;
             &:last-child {
                 margin-bottom: 0;
             }
