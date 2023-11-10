@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: adam.jaspan@googlemail.com
     phone: +44(0) 7794812865
-    website: ajaspan-cv #do not add http://
+    website: Personal website #ajaspan-cv #do not add http://
     linkedin: adam-jaspan
     github:  AEJaspan
     researchgate: Adam-Jaspan
@@ -208,8 +208,8 @@ experiences:
 
 publications:
     title: Publications
-    intro: |
-      Below is a list of my published works, on which I was the primary analyst.
+    # intro: |
+    #   Below is a list of my published works, on which I was the primary analyst.
     papers:
       - title: "Applied Bayesian Structural Health Monitoring: inclinometer data anomaly detection and forecasting"
         link: https://arxiv.org/abs/2307.00305
