@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: adam.jaspan@googlemail.com
     phone: +44(0) 7794812865
-    website: Personal website #ajaspan-cv #do not add http://
+    website: Personal website #ajaspan-cv #do not add http:// path in _includes/contact.html
     linkedin: adam-jaspan
     github:  AEJaspan
     researchgate: Adam-Jaspan
