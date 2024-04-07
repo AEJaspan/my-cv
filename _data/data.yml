@@ -102,7 +102,7 @@ sidebar:
     - item: Available on request
 
     interests:
-    - item: Technology, current affairs, economics, music, skiing, climbing, running, cycling, hiking
+    - item: Technology, politics, current affairs, economics, music, skiing, climbing, running, cycling, hiking
       link:
 
     # - item: Running
@@ -121,7 +121,9 @@ career-profile:
         DYWIDAG, leveraging a comprehensive suite of Machine Learning (ML) and Computer Vision (CV) 
         techniques to add value to DYWIDAG's product offering of remote sensor and monitoring equipment. 
         This work enables the efficient and timely monitoring of the health of various key infrastructure 
-        assets across countries within Europe, Asia, and the Americas.
+        assets across countries within Europe, Asia, and the Americas. Beyond this, my interests lie in 
+        economics and politics, and I spend my personal time studying and developing the statistical 
+        methodology of political science.
       
 education:
     - degree: PhD in Particle-physics
@@ -133,46 +135,45 @@ education:
       university: University of Liverpool
       time: 2013 - 2017
 experiences:
+    - role: Machine Learning Engineer
+      time: 2024 - Present
+      company: PwC
+      location: London
+      details: |
+          - Leading the engineering and architectural design of PwC's propriety LLM evaluation toolkit.
     - role: Data Scientist
       time: 2022 - Present
-      company: DYWIDAG Ltd
+      company: DYWIDAG
       location: London
       details: |
-          - Published novel techniques in the application of forecasting techniques on sensor data at an international conference.
-          - Deployed forecasting techniques on live sensor data, providing a value add helping to secure key commercial contracts.
-          - Innovated automation of defect detection and localization in vast image datasets, utilizing cutting-edge computer vision techniques.
-          - Led the back-end research and development of complex image reconstruction techniques within architectural and computational constraints.
-          - Peer-reviewed statistical models used in the maintenance of key US infrastructure.
+          - Proposed, developed and demoed MVP's to key stakeholders, aligning product development with user requirements.
+          - Deployed time series forecasting techniques on live sensor data.
+          - Published research on forecasting techniques at an international conference.
+          - Automated defect detection and localization in large image datasets, via computer vision techniques.
+          - Optimized the engineering and system design of production ready systems to meet stringent hardware and software constraints.
     - role: Data Scientist
       time: 2021 - 2022
-      company: Elastacloud Ltd
+      company: Elastacloud
       location: London
       details: |
-          - Led a team initiative into deploying continuous integration, training and deployment (CI/CT/CD) for ML pipelines via cloud resources and advancing MLOps practices within the company.
-          - Mastered big data analytics on the Databricks platform, leveraging Spark for scalable data processing.
-          - Optimized cloud computing resources for efficient ML model deployment via the Azure portal.
-          - Engineered and deployed robust end-to-end object detection ML pipelines utilizing advanced computer vision techniques.
-          - Streamlined the client workflow for a FTSE 100 company, taking a leading role in product development.
+          - Led the adoption of continuous integration, training and deployment (CI/CT/CD) of ML pipelines.
+          - Engineered and deployed robust end-to-end object detection ML pipelines utilizing advanced computer vision techniques, and deploying OCR through the Azure ML studio.
           - Developed language classification and object detection pipelines using NLP and computer vision techniques, with Keras and Azure.
-          - Achieved expertise in managing unstructured data, utilizing OpenCV and spaCy APIs to extract valuable insights.
-          - Provided mentorship and guidance to new developers, fostering a culture of continuous learning and collaboration.
-          - Led the coordination and presentation of MVPs to stakeholders, ensuring alignment with user needs and operational requirements.
+          - Provided mentorship and guidance to new developers, enabling continuous learning and collaboration.
     - role: Postgraduate Researcher
       time: 2017 - 2021
       company: University of Liverpool
       location: Liverpool
       details: |
-          - Produced a leading publication, developing advanced statistical analysis within the PyROOT framework.
-          - Successfully developed and tested ML solutions to event selection in big data sets using neural nets and random forests, implemented in both the Keras and scikit-learn toolkits.
+          - Published a statistical analysis of experimental data, searching for evidence of new fundamental particle interactions.
+          - Leveraged Machine Learning for event selection in big data sets using neural network and random forests techniques, implemented in both the Keras and scikit-learn toolkits.
           - Delivered analysis of petabyte-scale data sets through distributed cloud computing.
-          - Domain expert in particle physics & advanced statistics, inc. hypothesis testing and pseudo-experiments.
-          - Developed strong communication skills presenting at both group meetings and national conferences to both technical and non technical audiences.
-    - role: Postgraduate Researcher
+          - Demonstrated strong communication skills presenting at both group meetings and national conferences to both technical and non technical audiences.
+    - role: Postgraduate Researcher (Secondment)
       time: 2018 - 2019
       company: CERN
       location: Geneva
       details: |
-          - Awarded a year's secondment to the CERN collaboration in Geneva.
           - Responsible for "run control" shifts in the ATLAS control centre, operating the largest experiment in CERN.
           - Successfully integrated within a large, multinational collaboration of leading academics.      
     - role: Graduate Teaching Assistant
@@ -180,9 +181,7 @@ experiences:
       company: University of Liverpool
       location: Liverpool
       details: |
-          - Supervised undergraduate physics students, assisting with technical assignments in a range of subjects.
           - Assisted undergraduates in using various machine learning packages and Python libraries, demonstrating proficiency in each subject.
-          - Applied strong interpersonal skills to effectively communicate the technologies involved.
     - role: Research Assistant Internship
       time: May - Sept 2016
       company: University of Liverpool
@@ -195,7 +194,14 @@ experiences:
       location: Nottingham
       details: |
           - Performed R&D to develop and stress-test 3D models of surgical implants for use in scoliosis (spinal curvature) surgery.
-
+projects:
+    title: Projects
+    assignments:
+      - title: Election Forecasting
+        link: "https://aejaspan.github.io/posts/2023-11-05-Election%20Forecasting"
+        tagline:
+            - Developed a Hierarchical Bayesian model to forecast election results in a fictional country, resembling the UK's first-past-the-post electoral system.
+            - Employing a "polls plus" model that combines political polling data with fundamentals.
 # projects:
 #     title: Projects
 #     intro: >
